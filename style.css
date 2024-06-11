@@ -54,7 +54,14 @@ margin: 0 10px;
   max-width: 30%;
   height: auto;
  }
-
+img2 {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
 /* Estilos del pie de página */
 footer {
   background-color: #111;

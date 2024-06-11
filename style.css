@@ -49,11 +49,6 @@ main {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
  }
-img1 {
-margin: 0 10px;
-  max-width: 30%;
-  height: auto;
- }
 img2 {
   display: block;
   margin: 0 auto;
@@ -68,4 +63,10 @@ footer {
   padding: 20px;
   text-align: center;
   font-size: 14px;
+}
+
+.product-image {
+  margin: 0 10px;
+  max-width: 30%;
+  height: auto;
 }

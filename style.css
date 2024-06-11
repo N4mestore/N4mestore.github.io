@@ -57,6 +57,11 @@ img2 {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
+.product-image {
+  margin: 0 10px;
+  max-width: 30%;
+  height: auto;
+}
 /* Estilos del pie de página */
 footer {
   background-color: #111;
@@ -65,8 +70,3 @@ footer {
   font-size: 14px;
 }
 
-.product-image {
-  margin: 0 10px;
-  max-width: 30%;
-  height: auto;
-}
